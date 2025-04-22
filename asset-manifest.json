@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//naresh65723.github.io/Thopstech/static/css/main.c19ede32.css",
+    "main.js": "/https//naresh65723.github.io/Thopstech/static/js/main.16d52b71.js",
+    "static/js/453.cea1041e.chunk.js": "/https//naresh65723.github.io/Thopstech/static/js/453.cea1041e.chunk.js",
+    "static/media/hemanth.png": "/https//naresh65723.github.io/Thopstech/static/media/hemanth.9cd873f0994c860dfa0f.png",
+    "static/media/poojitha.jpg": "/https//naresh65723.github.io/Thopstech/static/media/poojitha.fc04056d97359efe9bbc.jpg",
+    "static/media/Sireesha.jpeg": "/https//naresh65723.github.io/Thopstech/static/media/Sireesha.f22d49eb3f5cf3cc36d1.jpeg",
+    "static/media/kaneppa.jpg": "/https//naresh65723.github.io/Thopstech/static/media/kaneppa.621b5066ad2063cfde94.jpg",
+    "static/media/java.jpeg": "/https//naresh65723.github.io/Thopstech/static/media/java.a30a167a5128d93c985d.jpeg",
+    "static/media/python.jpg": "/https//naresh65723.github.io/Thopstech/static/media/python.0edf58592add4bcc7d12.jpg",
+    "static/media/thops-logo.png": "/https//naresh65723.github.io/Thopstech/static/media/thops-logo.aa5bf8363813b6bbed42.png",
+    "index.html": "/https//naresh65723.github.io/Thopstech/index.html",
+    "main.c19ede32.css.map": "/https//naresh65723.github.io/Thopstech/static/css/main.c19ede32.css.map",
+    "main.16d52b71.js.map": "/https//naresh65723.github.io/Thopstech/static/js/main.16d52b71.js.map",
+    "453.cea1041e.chunk.js.map": "/https//naresh65723.github.io/Thopstech/static/js/453.cea1041e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c19ede32.css",
+    "static/js/main.16d52b71.js"
+  ]
+}
