@@ -19,7 +19,7 @@ function App() {
   
 
   return (
-    <div className="min-h-screen bg-[#0099ff]"
+    <div className="min-h-screen  bg-cover bg-center bg-[#0099ff]"
     style={{ backgroundImage: `url(${log})` }}>
       <Router>
         <nav className='text-lg flex justify-between items-center px-6 p-2 bg-[#009aff] text-white font-bold sticky top-0 z-10'>
